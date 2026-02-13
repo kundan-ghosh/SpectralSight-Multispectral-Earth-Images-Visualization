@@ -37,10 +37,11 @@ To run this work locally, you will need:
 
 ```bash
 pip install gdal rasterio numpy matplotlib
-
+```
 
 
 ## OSCD dataset citation
+```bash
 @data{asqe-7s69-19,
   doi = {10.21227/asqe-7s69},
   url = {https://dx.doi.org/10.21227/asqe-7s69},
@@ -49,3 +50,4 @@ pip install gdal rasterio numpy matplotlib
   title = {OSCD - Onera Satellite Change Detection},
   year = {2019}
 }
+```
